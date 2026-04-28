@@ -3,7 +3,8 @@
 A live weather dashboard built with **Grafana** and the **Infinity datasource**,
 pulling real-time data from the OpenWeatherMap API.
 
-![Nairobi Weather Dashboard](./screenshot.png)
+![Nairobi Weather Dashboard](<img width="1528" height="1146" alt="Nairobi Weather Dashboard-1777371107957" src="https://github.com/user-attachments/assets/6b636136-1730-4b42-af7f-ef46ae94278c" />
+)
 
 ## 📊 What It Shows
 
